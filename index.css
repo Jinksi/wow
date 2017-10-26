@@ -6,3 +6,12 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+button {
+  font-size: 5rem;
+  cursor: pointer;
+  border: none;
+  background: none;
+  outline: none;
+  line-height: 1;
+}
